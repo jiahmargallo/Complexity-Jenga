@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from './public/libs/three.module.js';
 
 import Stats from './public/libs/stats.module.js';
 
