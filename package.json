@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "Team Jenga",
   "homepage": "https://jiahmargallo.github.io/Complexity-Jenga/",
+  "tyoe": "module",
   "dependencies": {
     "three": "^0.169.0"
   },
