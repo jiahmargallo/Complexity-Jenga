@@ -9,8 +9,8 @@ Arrangement of Jenga blocks built with the help of ChatGPT and not perfect (unst
 
 # Development
 
-Run `npx vite` to enter dev mode. It will allow your code to run on `localhost` under the port specified.
+Run `npm run dev` to enter dev mode. It will allow your code to run on `localhost` under the port specified.
 
 # Deployment
 
-Deployment is done via GitHub Pages.
+Deployment is done via GitHub Pages. Before deploying to your repository, make sure to change the `homepage` variable in `package.json` to refelect your github username

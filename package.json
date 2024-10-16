@@ -1,4 +1,8 @@
 {
+  "name": "complexity-jenga",
+  "version": "0.1.0",
+  "author": "Team Jenga",
+  "homepage": "https://jiahmargallo.github.io/Complexity-Jenga/",
   "dependencies": {
     "three": "^0.169.0"
   },
@@ -7,9 +11,10 @@
     "vite": "^5.4.9"
   },
   "scripts": {
-    "test": "npx vite",
+    "dev": "vite",
     "build": "vite build",
+    "preview": "vite preview",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d dist"
   }
 }
